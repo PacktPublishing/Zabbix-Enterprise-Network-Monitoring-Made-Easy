@@ -1,8 +1,8 @@
-# Book Name
+# Zabbix: Enterprise Network Montioring Made Easy
 
-<a href="Packt UTM URL of the Book"><img src="Cover Image URL of the Book" alt="Book Name" height="256px" align="right"></a>
+<a href="https://www.packtpub.com/networking-and-servers/zabbix-enterprise-network-monitoring-made-easy?utm_source=github&utm_medium=repository&utm_content=9781787129047"><img src="https://www.packtpub.com/sites/default/files/C06984_MockupCover_low.png" alt="Zabbix: Enterprise Network Monitoring Made Easy" height="256px" align="right"></a>
 
-This is the code repository for [Book Name](Packt UTM URL of the Book), published by Packt.
+This is the code repository for [Zabbix: Enterprise Network Montioring Made Easy](https://www.packtpub.com/networking-and-servers/zabbix-enterprise-network-monitoring-made-easy?utm_source=github&utm_medium=repository&utm_content=9781787129047), published by Packt.
 
 **Subtitle from EPIC**
 
