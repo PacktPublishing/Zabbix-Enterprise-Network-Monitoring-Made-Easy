@@ -18,7 +18,7 @@ This Learning Path combines some of the best that Packt has to offer in one comp
 * Zabbix Cookbook 
 * Mastering Zabbix-Second Edition
 
-This book covers the following exciting features: <First 5 What you'll learn points>
+This book covers the following exciting features: 
 * Efficiently collect data from a large variety of monitoring objects
 * Organize your data in graphs, charts, maps, and slide shows
 * Write your own custom probes and monitoring scripts to extend Zabbix
@@ -65,9 +65,10 @@ With the following software and hardware list you can run all code files present
 
 
 ### Related products <Paste books from the Other books you may enjoy section>
-* Linux: Powerful Server Administration [[Packt]](https://www.packtpub.com/networking-and-servers/linux-powerful-server-administration?utm_source=github&utm_medium=repository&utm_campaign=9781788293778) [[Amazon]](https://www.amazon.com/dp/1788293770)
+* Book name [[Packt]](UTM link) [[Amazon]](Amazon link)
 
-* Linux Device Drivers Development [[Packt]](https://www.packtpub.com/networking-and-servers/linux-device-drivers-development?utm_source=github&utm_medium=repository&utm_campaign=9781785280009) [[Amazon]](https://www.amazon.com/dp/1788293770)
+* Book name [[Packt]](UTM link) [[Amazon]](Amazon link)
+
 
 ## Get to Know the Author(s)
 **Author Name**
