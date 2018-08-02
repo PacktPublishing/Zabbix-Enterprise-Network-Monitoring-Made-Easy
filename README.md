@@ -4,17 +4,26 @@
 
 This is the code repository for [Zabbix: Enterprise Network Montioring Made Easy](https://www.packtpub.com/networking-and-servers/zabbix-enterprise-network-monitoring-made-easy?utm_source=github&utm_medium=repository&utm_content=9781787129047), published by Packt.
 
-**Subtitle from EPIC**
+**Learn how to gather detailed statistics and data with this one-stop, comprehensive course along with hands-on recipes to get your infrastructure up and running with Zabbix.**
 
 ## What is this book about?
-First Paragraph from the Long Description
+Nowadays, monitoring systems play a crucial role in any IT environment. They are extensively used to not only measure your system’s performance, but also to forecast capacity issues. This is where Zabbix, one of the most popular monitoring solutions for networks and applications, comes into the picture. With an efficient monitoring system in place, you’ll be able to foresee when your infrastructure runs under capacity and react accordingly. Due to the critical role a monitoring system plays, it is fundamental to implement it in the best way from its initial setup. This avoids misleading, confusing, or, even worse, false alarms that can disrupt an efficient and healthy IT department.
+
+This course is for administrators who are looking for an end-to-end monitoring solution. It will get you accustomed with the powerful monitoring solution, starting with installation and explaining the fundamentals of Zabbix. Moving on, we explore the complex functionalities of Zabbix in the form of enticing recipes. These recipes will help you to gain control of your infrastructure.
+
+You will be able to organize your data in the form of graphs and charts along with building intelligent triggers for monitoring your network proactively. Toward the end, you will gain expertise in monitoring your networks and applications using Zabbix.
+
+This Learning Path combines some of the best that Packt has to offer in one complete, curated package. It includes content from the following Packt products: 
+* Zabbix Network Monitoring-Second Edition
+* Zabbix Cookbook 
+* Mastering Zabbix-Second Edition
 
 This book covers the following exciting features: <First 5 What you'll learn points>
-* Learn how to manage users, groups, and permissions
-* Encrypt and decrypt disks with Linux Unified Key Setup /Luks
-* Setup SSH for remote access, and connect it to other nodes
-* Understand how to add, remove, and search for packages
-* Use NFS and Samba to share directories with other users
+* Efficiently collect data from a large variety of monitoring objects
+* Organize your data in graphs, charts, maps, and slide shows
+* Write your own custom probes and monitoring scripts to extend Zabbix
+* Configure Zabbix and its database to be high available and fault-tolerant
+* Automate repetitive procedures using Zabbix's API
 
 
 ## Instructions and Navigations
