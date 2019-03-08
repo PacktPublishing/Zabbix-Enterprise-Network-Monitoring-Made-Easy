@@ -1,4 +1,4 @@
-# Zabbix: Enterprise Network Montioring Made Easy
+# Zabbix: Enterprise Network Monitoring Made Easy
 
 <a href="https://www.packtpub.com/networking-and-servers/zabbix-enterprise-network-monitoring-made-easy?utm_source=github&utm_medium=repository&utm_content=9781787129047"><img src="https://www.packtpub.com/sites/default/files/C06984_MockupCover_low.png" alt="Zabbix: Enterprise Network Monitoring Made Easy" height="256px" align="right"></a>
 
