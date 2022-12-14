@@ -1,3 +1,15 @@
+
+### Get this product for $5
+
+<i>Packt is having its biggest sale of the year. Get this eBook or any other book, video, or course that you like just for $5 each</i>
+
+
+<b><p align='center'>[Buy now](https://packt.link/9781787129047)</p></b>
+
+
+<b><p align='center'>[Buy similar titles for just $5](https://subscription.packtpub.com/search)</p></b>
+
+
 # Zabbix: Enterprise Network Monitoring Made Easy
 
 <a href="https://www.packtpub.com/networking-and-servers/zabbix-enterprise-network-monitoring-made-easy?utm_source=github&utm_medium=repository&utm_content=9781787129047"><img src="https://www.packtpub.com/sites/default/files/C06984_MockupCover_low.png" alt="Zabbix: Enterprise Network Monitoring Made Easy" height="256px" align="right"></a>
